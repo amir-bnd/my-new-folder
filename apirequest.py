@@ -1,5 +1,5 @@
 import requests
 print("amirk")
-myLastname = "ali ghlam"
+myLastname = "ali ghlami"
 print(f"mylastname is : {myLastname}")
-print("im so tired")
+print("im so tired and wick")
